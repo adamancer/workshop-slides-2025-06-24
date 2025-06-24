@@ -7,7 +7,7 @@ revealOptions:
 ---
 
 
-# Winter Library Carpentry Workshop
+# Summer Data Carpentry Workshop
 
 ![SI Carpentries](images/si_carpentries.png)
 
@@ -87,7 +87,7 @@ The Instructors will try to build in time between lessons to ask questions, but 
 
 ## Course website
 
-https://smithsonianworkshops.github.io/2025-01-smithsonian-online
+https://smithsonian.github.io/2025-06-24-smithsonian/
 
 ---
 
@@ -95,7 +95,7 @@ https://smithsonianworkshops.github.io/2025-01-smithsonian-online
 
 A collaborative document – think of it as a stripped-down version of Google Docs
 
-https://pad.carpentries.org/2025-01-smithsonian-online
+https://pad.carpentries.org/2025-06-24-smithsonian
 
 ---
 
