@@ -109,7 +109,7 @@ https://pad.carpentries.org/2025-06-24-smithsonian
 
 ## What we will be teaching in this workshop
 
-Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
+Data Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
 
 ---
 
