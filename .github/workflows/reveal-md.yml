@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'intro_slides.md'
+  workflow_dispatch:
 
 jobs:
   release:
